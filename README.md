@@ -27,4 +27,6 @@ Your site is now running at `http://localhost:8000`!
 
 Your site is now running at `http://localhost:9000`!
 
-![Alt text](https://github.com/vaidis/enviromon-front/blob/master/gatsby-single-page-theme.jpg?raw=true)
+![Alt text](https://github.com/vaidis/gatsby-single-page-theme/blob/master/gatsby-single-page-theme.jpg?raw=true)
+
+
